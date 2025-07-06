@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Guys! I'm Nearuu💥
 
 <!--
 **Nearuu/Nearuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Student at one of the Universities in Indonesia
+- 🍀 I’m currently learning CSS,Laravel and Python
+- 💬 Ask me about Programming and Anime
+- 💜 I’m looking to collaborate on Instagram and others
+- ⚡ Fun fact: I like drawing and learning new things
+![bocchi the rock](https://tenor.com/id/view/bocchi-the-rock-bocchi-hitori-gif-27014251.gif)
