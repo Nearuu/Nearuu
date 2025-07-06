@@ -19,4 +19,6 @@ I am a Student at one of the Universities in Indonesia
 - 💬 Ask me about Programming and Anime
 - 💜 I’m looking to collaborate on Instagram and others
 - ⚡ Fun fact: I like drawing and learning new things
+
+  
 ![bocchi the rock](https://tenor.com/id/view/bocchi-the-rock-bocchi-hitori-gif-27014251.gif)
